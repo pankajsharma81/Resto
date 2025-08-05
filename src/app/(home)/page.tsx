@@ -3,7 +3,7 @@ export default function Home() {
   return (
     <div>
       <h1>Welcome to pizza shop</h1>
-      <Button variant="link">Button</Button>
+      <Button>Button</Button>
     </div>
   );
 }
